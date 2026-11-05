@@ -27,6 +27,17 @@ I am expanding my technical skills into Python programming, data analytics, arti
 - **SMP Tracker:** Exploring data analysis, machine learning, and personalized coaching using Python.
 - **Sauti Yangu:** A digital platform concept focused on reporting and addressing violence against women.
 
+  ## Services
+
+- **Data Automation:** Developing Python tools
+  for data processing and automated reporting.
+
+- **Engineering Data Tools:** Organizing
+  operational and project information.
+
+- **Digital Tracking:** Building practical
+  applications for tracking and reporting.
+
 ## 📚 Currently Learning
 - Python programming and application development
 - Data Analytics
